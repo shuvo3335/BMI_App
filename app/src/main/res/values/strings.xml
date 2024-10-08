@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">RoomDB</string>
+    <string-array name="array_department">
+        <item>CFDL-1</item>
+        <item>CFDL-2</item>
+        <item>CFDL-3</item>
+        <item>CFDL-4</item>
+        <item>CFDL-5</item>
+        <item>Local Sale</item>
+        <item>Human Resource</item>
+        <item>CEO\'s Office</item>
+        <item>System Development</item>
+        <item>Padma Spinning</item>
+        <item>Rotary Printing</item>
+        <item>Screen Printing</item>
+        <item>RR WASHING</item>
+        <item>Embroidery</item>
+        <item>Yellow</item>
+        <item>BTL</item>
+        <item>BDL</item>
+        <item>BKL</item>
+        <item>Marketing</item>
+        <item>Procurement</item>
+        <item>Administration</item>
+        <item>HO</item>
+        <item>Design Studio</item>
+        <item>ESSESS</item>
+        <item>IKAL 1</item>
+        <item>NEW DACCA 1</item>
+        <item>NEW DACCA 2</item>
+        <item>Yellow Factory</item>
+        <item>Label Factory</item>
+        <item>Central Store</item>
+        <item>Accounts</item>
+        <item>Commercial</item>
+        <item>Communication</item>
+        <item>Cent.  Elect. Lab</item>
+        <item>Smart Lab</item>
+        <item>Central Sample</item>
+        <item>Hand Tag Printing</item>
+        <item>Mask Factory</item>
+        <item>NBL-1</item>
+        <item>NBL-2</item>
+        <item>NBL-3</item>
+        <item>NBL-4</item>
+        <item>NBL-5</item>
+        <item>NBL-6</item>
+        <item>BFSL-1</item>
+        <item>BFSL-2</item>
+        <item>BFSL-3</item>
+        <item>BFSL-4</item>
+        <item>BTL Power</item>
+        <item>BDL-2</item>
+        <item>BGD Workshop</item>
+        <item>BDL Lab</item>
+        <item>BTL Utility</item>
+        <item>RR Wash Design</item>
+        <item>Circular Knitting</item>
+        <item>Yellow Apparel</item>
+    </string-array>
+</resources>
